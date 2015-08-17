@@ -6,6 +6,8 @@
 
 Created by [Leonardo Maia](http://leonardomaia.com.br).
 
+Media for TodoMVC can be found in its [repo](https://github.com/tastejs/todomvc/tree/master/media).
+
 
 ## License
 
